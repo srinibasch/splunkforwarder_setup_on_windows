@@ -16,10 +16,9 @@ START INSTALLING SPLUNK FORWOARDER
 5.click on Install and finish
 
 <img src="https://github.com/srinibasch/splunkforwarder_setup_on_windows/blob/main/splunkforworder4.png">
-6.follow the fath and find out outputs.conf
+6.follow the path and find out outputs.conf
  
- ```C:\Program Files\SplunkUniversalForwarder\etc\system\local
- ```
+ ```C:\Program Files\SplunkUniversalForwarder\etc\system\local```
 
 <img src="https://github.com/srinibasch/splunkforwarder_setup_on_windows/blob/main/splunkforworder5.png">
 
